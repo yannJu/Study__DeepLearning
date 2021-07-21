@@ -19,4 +19,4 @@
 
 1. [Mask Detect Practice](https://github.com/yannJu/Study__DeepLearning/blob/master/MaskDetect/detectMask_Project_Practice.ipynb) : 유튜브를 참고하여 작성해봄
 
-    참고유튜브 : []()
+    참고유튜브 : 마스크 썼는지 안썼는지 알아내는 인공지능[](https://youtu.be/ncIyy1doSJ8)
